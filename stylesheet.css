@@ -1,8 +1,20 @@
+html {
+    overflow: hidden;
+    height: 100%;
+}
+body {
+    margin: 0px;
+    height: 100%;
+    overflow: auto;
+}
 .scroller {
     width: 100vw;
     height: .2em;
     position: fixed;
 }
 .content {
-    height: 300vh;
+    height: 2000vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
