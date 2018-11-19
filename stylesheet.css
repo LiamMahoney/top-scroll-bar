@@ -1,0 +1,8 @@
+.scroller {
+    width: 100vw;
+    height: .2em;
+    position: fixed;
+}
+.content {
+    height: 300vh;
+}
