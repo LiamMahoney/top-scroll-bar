@@ -1,7 +1,7 @@
 # top-scroll-bar
-A scroll bar that shows how far the user is scrolled on the current website.
+<a href="https://scroller.liammahoney.me">https://scroller.liammahoney.me</a>
 
-Can be configured to have different colors.
+A scroll bar that shows how far the user is scrolled on the current website.
 
 Created with HTML/CSS/JavaScript.
 
